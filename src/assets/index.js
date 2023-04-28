@@ -25,10 +25,16 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import suvens from "./company/suvens.png";
+import successr from "./company/successr.png";
+import zeus from "./company/zeus.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import bulky from "./bulky.png";
+import dumphy from "./dumphy.png";
+import bhiksha from "./bhiksha.png";
 
 export {
   logo,
@@ -53,10 +59,16 @@ export {
   typescript,
   threejs,
   meta,
+  suvens,
+  zeus,
+  successr,
   shopify,
   starbucks,
   tesla,
   carrent,
   jobit,
   tripguide,
+  bulky,
+  dumphy,
+  bhiksha
 };
