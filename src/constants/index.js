@@ -16,6 +16,7 @@ import {
     figma,
     docker,
     meta,
+    pal,
     suvens,
     successr,
     zeus,
@@ -48,15 +49,15 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Machine Learning Engineer",
       icon: web,
     },
     {
-      title: "Flutter Developer",
+      title: "Web Developer",
       icon: mobile,
     },
     {
-      title: "Shopify Developer",
+      title: "Flutter Developer",
       icon: backend,
     },
     {
@@ -209,32 +210,53 @@ import {
         "Here is the implementation of some of my work https://github.com/motidivya/dailytasks",
       ],
     },
+    {
+      title: "Machine Learning Engineer",
+      company_name: "Indian Navy",
+      icon: pal,
+      iconBg: "#E6DEDD",
+      date: "May 2022 - February 2024",
+      points: [
+        "Implemented an Advanced Computational Learning (ACL) formula integrating ARIMA, HOLT-TSB, Logistic Regression, Random Forest, and KNN algorithms to optimize procurement processes, achieving 93% accuracy in demand forecasting.",
+        "Co-authored and deployed comprehensive literature surveys on enhancing Natural Language Understanding (NLU) with RoBERTa, BERT, and T5 models to advance NLP capabilities for strategic applications in the Indian Navy.",
+        "Designed and deployed an API fetching application using Python, Django, and Tkinter for the Indian Navy.",
+        "Participated in software development as a Software Developer with a focus on analytical and predictive model integration.",
+        "Engaged in multidisciplinary projects enhancing operational efficiency and data-driven decision-making within naval logistics and communications.",
+        "Contributed to the development of advanced NLP tools potentially applicable for strategic communication and intelligence analysis.",
+        "Utilized diverse programming and data analysis techniques to support various technological advancements and software solutions within the Navy.",
+        "Applied hands-on experience with Python, Django, and front-end technologies to develop and implement practical software solutions.",
+        "Enhanced user experience and data management through effective API integration and software design.",
+        "Collaborated in team-oriented environments to deliver high-quality software projects addressing complex challenges in military operations.",
+        "Incorporated modern data science and machine learning techniques to facilitate accurate and timely decision-making processes.",
+        "Advanced the Indian Navy's technological capabilities through innovative software development and application of cutting-edge technologies."
+    ],
+    }
   ];
   
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Divyesh proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+        "During our collaboration in the Indian Navy, Divyesh demonstrated exceptional analytical skills and a keen understanding of advanced computational methods. The ACL formula they implemented significantly optimized our procurement processes, leading to a remarkable improvement in our forecasting accuracy. Divyesh's dedication to innovation and precision has set new standards in our operational efficiency..",
+      name: "Murthy",
+      designation: "Captain",
+      company: "Indian Navy",
+      image: "https://picsum.photos/200",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Divyesh does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+        "Divyesh has been an invaluable asset to our team, especially in the realm of Natural Language Understanding (NLU) enhancement. Their work integrating RoBERTa, BERT, and T5 models has propelled our NLP capabilities forward, opening new avenues for strategic communication and intelligence analysis. Divyesh's ability to translate complex concepts into actionable solutions is truly commendable.",
+      name: "Ajit",
+      designation: "Commander",
+      company: "Indian Navy",
+      image: "https://picsum.photos/200",
     },
     {
       testimonial:
         "After Divyesh optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+      name: "Nandlal Vishwakarma",
+      designation: "CEO",
+      company: "NBP Games",
+      image: "https://i.ibb.co/NTDCFKW/Papa-Edited.jpg",
     },
   ];
   
@@ -287,7 +309,7 @@ import {
         "A fun project just to showcase my Frontend Skills.One can beg for money, emotions and even date totally online. Just signup, connect your whatsapp and start your work, lol.",
       tags: [
         {
-          name: "Anular",
+          name: "Angular",
           color: "blue-text-gradient",
         },
         {
