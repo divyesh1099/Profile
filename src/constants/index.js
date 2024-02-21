@@ -212,9 +212,9 @@ import {
     },
     {
       title: "Machine Learning Engineer",
-      company_name: "Indian Navy",
+      company_name: "Pal India - Indian Navy",
       icon: pal,
-      iconBg: "#E6DEDD",
+      iconBg: "#383E56",
       date: "May 2022 - February 2024",
       points: [
         "Implemented an Advanced Computational Learning (ACL) formula integrating ARIMA, HOLT-TSB, Logistic Regression, Random Forest, and KNN algorithms to optimize procurement processes, achieving 93% accuracy in demand forecasting.",

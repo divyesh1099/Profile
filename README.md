@@ -17,3 +17,10 @@ https://user-images.githubusercontent.com/65925922/233841587-db19615f-6641-4843-
 
 
 -MotiDivya❤️
+
+(
+    To Update: 
+    - ```npm run build``` (vite should be installed, ```npm install -g vite```)
+    - Then just manually copy and paste the contents of dist into build
+    - ```firebase deploy```
+)
